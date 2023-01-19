@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(73, 75, 77);
+    
+}
+#head{
+    text-align: center;
+    color: rgb(104, 199, 168);
+    background-color: rgb(99, 109, 142);
+    padding: 7px;
+    margin: 40px 30% 0px 30%;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+#container{
+    margin:10vh auto 0 70vh;
+}
+#img1{
+   align-items: center;
+    display: block;
+    height: 400px;
+    width:400px;
+    border: 3px solid black;
+    border-radius: 5px;
+}
+
+.btn{
+    margin:20px 0 0 70px;
+    
+    height: 50px;
+    width: 70px;
+    border: 2px solid olivedrab;
+    background-color: rgb(127, 167, 120);
+    font-size: 13px;
+    font-weight: bold;
+    border-radius: 3px;
+   
+}

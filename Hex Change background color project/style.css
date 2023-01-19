@@ -1,0 +1,14 @@
+.center{
+    text-align: center;
+   
+}
+.btn{
+    margin-top: 50px;
+    font-size: larger;
+    font-weight: 900;
+    border-radius: 10px;
+
+}
+#hex{
+    margin-top: 70px;
+}
